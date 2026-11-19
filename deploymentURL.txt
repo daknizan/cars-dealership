@@ -1,2 +1,2 @@
-Collez ici l'URL de votre application déployée (IBM Cloud Code Engine), par exemple :
-https://cars-dealership.abc123.us-south.codeengine.appdomain.cloud/
+Ici l'URL
+https://83b6ccd29f6943.app.lhr.life/
